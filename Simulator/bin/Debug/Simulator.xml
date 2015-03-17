@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Simulator
+</name>
+</assembly>
+<members>
+<member name="M:Simulator.WPFX.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Simulator.WPFX">
+	<summary>
+WPFX
+</summary>
+</member><member name="T:Simulator.Main">
+	<summary>
+                                                         BLACK-OIL MSV 1.0
+  ______________________________Open Source Simulator for Black-Oil Model of Hydrocarbon Reservoirs _____________________________
+                                                Copyright (C) 2014  Amir Emamjomeh                                              
+                                                     amir.emamjomeh@gmail.com
+ 
+ This program is free software: you can redistribute it and/or  modify it  under the terms  of the  GNU  General  Public  License 
+ as published by the Free Software Foundation, either version 3 of the License, or any later version. This program is distributed 
+ in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR 
+ A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public Licensealong with this program. If not,see http://www.gnu.org/licenses
+_________________________________________________________________________________________________________________________________
+ </summary>
+</member><member name="T:Simulator.ValueBox">
+	<summary>
+ Numeric TextBox Control
+ By Amir Emamjomeh Kuhbanani
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Simulator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Simulator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Simulator.My.Resources.Resources.play_button1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Simulator.My.Resources.Resources.play_button2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Simulator.My.Resources.Resources.play_button3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Simulator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Simulator.Core">
+	<summary>
+                                                         BLACK-OIL MSV 1.0
+  ______________________________Open Source Simulator for Black-Oil Model of Hydrocarbon Reservoirs _____________________________
+                                                 Copyright (C) 2014  Amir Emamjomeh                                              
+                                                      amir.emamjomeh@gmail.com
+ 
+ This program is free software: you can redistribute it and/or  modify it  under the terms  of the  GNU  General  Public  License 
+ as published by the Free Software Foundation, either version 3 of the License, or any later version. This program is distributed 
+ in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR 
+ A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public Licensealong with this program. If not,see http://www.gnu.org/licenses
+_________________________________________________________________________________________________________________________________
+ </summary>
+</member>
+</members>
+</doc>
